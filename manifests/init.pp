@@ -44,5 +44,6 @@
 #
 class cowsay {
 
+  include cowsay::install
 
 }
