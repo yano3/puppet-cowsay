@@ -1,0 +1,15 @@
+{
+  "name": "yano3-cowsay",
+  "version": "0.1.0",
+  "author": "yano3",
+  "summary": "Module for installing cowsay",
+  "license": "MIT",
+  "source": "https://github.com/yano3/puppet-cowsay",
+  "project_page": "https://github.com/yano3/puppet-cowsay",
+  "issues_url": "https://github.com/yano3/puppet-cowsay/issues",
+  "dependencies": [
+    {"name":"puppetlabs-stdlib","version_requirement":">= 1.0.0"}
+  ],
+  "data_provider": null
+}
+
